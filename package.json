@@ -8,6 +8,7 @@
     "format": "prettier-eslint --write $PWD/{src,tests}/**/*.ts",
     "format:check": "prettier-eslint --list-different $PWD/{src,tests}/**/*.ts",
     "test:unit": "jest --forceExit --detectOpenHandles",
+    "test": "npm run test:unit",
     "start": "node .",
     "start:dev": "nodemon",
     "build": "tsc --project ./tsconfig.build.json"
