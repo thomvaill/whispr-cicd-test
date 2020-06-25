@@ -81,4 +81,5 @@ jobs:
         env:
           MDF_BRANCH_TAG: master
           MDF_BUILD_PARAMS: --cache-from ${{ env.CACHE_IMAGE }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
