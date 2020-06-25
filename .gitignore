@@ -1,0 +1,42 @@
+# Logs
+*.log
+
+# Node
+/node_modules
+/dist
+
+# Config
+.env
+
+# Unit test / coverage reports
+/coverage
+.nyc_output
+
+# OS auto-generated files
+.DS_Store
+._*
+
+# Vim
+*~
+*.swp
+*.swo
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Dockermake
+Makedockfile.dist.conf
+Makedockfile.out
