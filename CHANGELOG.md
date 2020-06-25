@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.1.0...v1.2.0) (2020-06-25)
+
+
+### Features
+
+* add semantic-release badge ([9819ded](https://github.com/Thomvaill/whispr-cicd-test/commit/9819dedc73ad3032362b35f1c9c163f037883c56))
+
 # [1.1.0](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.0.0...v1.1.0) (2020-06-25)
 
 
