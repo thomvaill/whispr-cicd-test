@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.2.0...v1.3.0) (2020-06-26)
+
+
+### Features
+
+* my new feature ([1d1b405](https://github.com/Thomvaill/whispr-cicd-test/commit/1d1b405f3a2cb95c63e36e836410eac76f0380e3))
+
 # [1.2.0](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.1.0...v1.2.0) (2020-06-25)
 
 
