@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.3.2...v1.3.3) (2020-06-30)
+
+
+### Bug Fixes
+
+* test ci skip again ([6fbe008](https://github.com/Thomvaill/whispr-cicd-test/commit/6fbe00829c6e383d7605ad92d461e6240da45e3c))
+
 ## [1.3.2](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.3.1...v1.3.2) (2020-06-30)
 
 
