@@ -1,3 +1,12 @@
+## [1.3.1](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.3.0...v1.3.1) (2020-06-29)
+
+
+### Bug Fixes
+
+* set GH_TOKEN in checkout ([2ff1b5f](https://github.com/Thomvaill/whispr-cicd-test/commit/2ff1b5fac1e8424b438cff7a0bc365fd1c0116c8))
+* test ([665d51f](https://github.com/Thomvaill/whispr-cicd-test/commit/665d51f5c18cadbe7edb893654678c1b219bcb1d))
+* test GH_TOKEN ([4bbc140](https://github.com/Thomvaill/whispr-cicd-test/commit/4bbc140fa1b61df3f3d57dd46a38f87f8423f881))
+
 # [1.3.0](https://github.com/Thomvaill/whispr-cicd-test/compare/v1.2.0...v1.3.0) (2020-06-26)
 
 
